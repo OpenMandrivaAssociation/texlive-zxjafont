@@ -1,12 +1,6 @@
-# revision 30105
-# category Package
-# catalog-ctan /language/japanese/zxjafont
-# catalog-date 2013-04-25 17:40:06 +0200
-# catalog-license other-free
-# catalog-version 0.2
 Name:		texlive-zxjafont
-Version:	0.2
-Release:	9
+Version:	0.3
+Release:	1
 Summary:	Set up Japanese font families for XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/zxjafont
@@ -31,11 +25,8 @@ TeXLive zxjafont package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/zxjafont/zxjafont.sty
-%doc %{_texmfdistdir}/doc/latex/zxjafont/LICENSE
-%doc %{_texmfdistdir}/doc/latex/zxjafont/README
-%doc %{_texmfdistdir}/doc/latex/zxjafont/zxjafont.pdf
-%doc %{_texmfdistdir}/doc/latex/zxjafont/zxjafont.tex
+%{_texmfdistdir}/tex/latex/zxjafont
+%doc %{_texmfdistdir}/doc/latex/zxjafont
 
 #-----------------------------------------------------------------------
 %prep
