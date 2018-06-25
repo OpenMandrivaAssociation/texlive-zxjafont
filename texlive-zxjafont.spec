@@ -1,5 +1,5 @@
 Name:		texlive-zxjafont
-Version:	0.3
+Version:	0.4
 Release:	1
 Summary:	Set up Japanese font families for XeLaTeX
 Group:		Publishing
