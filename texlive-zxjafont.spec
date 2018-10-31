@@ -1,6 +1,6 @@
 Name:		texlive-zxjafont
 Version:	0.4
-Release:	1
+Release:	2
 Summary:	Set up Japanese font families for XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/zxjafont
