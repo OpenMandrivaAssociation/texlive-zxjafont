@@ -3,7 +3,7 @@ Version:	62864
 Release:	2
 Summary:	Set up Japanese font families for XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/zxjafont
+URL:		https://www.ctan.org/tex-archive/language/japanese/zxjafont
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zxjafont.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zxjafont.doc.r%{version}.tar.xz
